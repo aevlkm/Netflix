@@ -1,13 +1,13 @@
-# Netflix <br> <br>
+# Netflix 
+
+<img src="https://raw.githubusercontent.com/aevlkm/Netflix/main/99_Pictures/Netflix_Logo_Long.png" alt="Netflix_Background" width="55%"> <br> <br>
+
 
 # 🎓 Bloc II - Concepteur Développeur en Science des données
 
 Ce projet traite la partie du titre dédiée à "l'Analyse exploratoire, descriptive et inférentielle de données". <br> 
 
 N'hésitez pas à consulter sa [présentation](00_Presentation/Netflix_Presentation.pdf?raw=true) 🙂 <br> <br>
-
-
-<img src="https://raw.githubusercontent.com/aevlkm/Netflix/main/99_Pictures/Netflix_Logo_Long.png" alt="Netflix_Background" width="55%">
 
 
 # 🎬 Présentation
