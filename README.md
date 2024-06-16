@@ -24,7 +24,7 @@ Lancé en 1997, Netflix compte aujourd'hui des millions d'abonnés dans plus de 
 Pour identifier comment Netflix peut rester compétitif face à une concurrence croissante, <br>
 l'étude du catalogue révèle plusieurs facteurs clés : la disponibilité géographique, les préférences selon les cultures, les genres dominants, la durée des contenus, ou encore la saisonnalité des sorties de nouveaux contenus sur la plateforme. <br>
 
-N'hésitez pas à consulter le [tableau de bord](02_Powerbi/Netflix.pbix?raw=true) dans le dossier 02_Powerbi <br> <br>
+N'hésitez pas à consulter le [tableau de bord](02_Powerbi/Netflix.pbix?raw=true) dans le dossier 02_Powerbi. <br> <br>
 
 
 # 🗂 Arborescence
@@ -40,6 +40,6 @@ N'hésitez pas à consulter le [tableau de bord](02_Powerbi/Netflix.pbix?raw=tru
 
 # ℹ️ Sources
 
-Vous pourrez le jeu de données [Netflix](https://github.com/aevlkm/Netflix/raw/main/01_Data_Input/Netflix.csv) dans le dossier 01_Data_Input <br> <br>
+Vous pourrez le jeu de données [Netflix](https://github.com/aevlkm/Netflix/raw/main/01_Data_Input/Netflix.csv) dans le dossier 01_Data_Input. <br> <br>
 
 
