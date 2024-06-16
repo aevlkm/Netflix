@@ -1,4 +1,4 @@
-# Netflix
+# Netflix <br> <br>
 
 # 🎓 Bloc II - Concepteur Développeur en Science des données
 
@@ -7,10 +7,10 @@ Ce projet traite la partie du titre dédiée à "l'Analyse exploratoire, descrip
 N'hésitez pas à consulter sa [présentation](00_Presentation/Netflix_Presentation.pdf?raw=true) 🙂 <br> <br>
 
 
-<img src="https://raw.githubusercontent.com/aevlkm/Netflix/main/99_Pictures/Netflix_Background.png" alt="Netflix_Background" width="55%">
+<img src="https://raw.githubusercontent.com/aevlkm/Netflix/main/99_Pictures/Netflix_Logo_Long.png" alt="Netflix_Background" width="55%">
 
 
-# 🎬 Netflix
+# 🎬 Présentation
 
 Netflix est un service de streaming mondial offrant une vaste sélection de séries, films, documentaires et contenus originaux. <br>
 
@@ -40,6 +40,6 @@ N'hésitez pas à consulter le [tableau de bord](02_Powerbi/Netflix.pbix?raw=tru
 
 # ℹ️ Sources
 
-Vous pourrez le jeu de données [Netflix](01_Data_Input/Netflix.csv?raw=true) dans le dossier 01_Data_Input <br> <br>
+Vous pourrez le jeu de données [Netflix](https://github.com/aevlkm/Netflix/raw/main/01_Data_Input/Netflix.csv) dans le dossier 01_Data_Input <br> <br>
 
 
